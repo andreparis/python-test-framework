@@ -1,3 +1,8 @@
+# Developed by André Paris - Software Engineer
+# https://www.linkedin.com/in/andre-paris-02626153/
+#
+# You can find this framework at: https://github.com/andreparis/python-test-framework-with-zabbix
+
 from ..core.DSL import DSL
 from Framework.core.driverfactory import DriverFactory
 from Framework.core.property import Property
