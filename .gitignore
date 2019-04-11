@@ -1,0 +1,11 @@
+__pycache__
+*.py[cod]
+*.py~
+
+__pycache__
+*.py[cod]
+*.py~
+
+log/Logs/
+log/screenshot/
+core\property.py
